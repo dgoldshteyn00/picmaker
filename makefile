@@ -1,3 +1,3 @@
-  all: picMaker.py
+  all: picmaker.py
 	python picmaker.py
 	display image.ppm
